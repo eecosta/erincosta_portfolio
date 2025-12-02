@@ -1,9 +1,6 @@
 # Erin Costa
 Contact Info: [(631) 687-7463]
 ### About Me 
-[Fill in Madlibs here]
-
-### Education 
 Hello! I am an experienced Speech Pathologist and speech pathology professional with over 3 years of proven expertise in speech pathology and communication disorders. 
 
 
@@ -14,6 +11,9 @@ My proficient skill set, commitment to helping those around me, and passion for 
 
 
 You can find me on [LinkedIn Hyperlink], [Social Media 1] or [Social Media 2].
+
+### Education 
+BS in Speech-Language-Hearing Sciences, Loyola University Maryland
 ***
 ### Projects
 
